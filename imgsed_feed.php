@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Imgsed Feed
+Plugin Name: Imgsed Feed
 Description: Display the latest Instagram posts from Imgsed feed - NO API required - Can be used without Instagram access
 Version: 1.0
 Author: Mario Santella
