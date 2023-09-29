@@ -50,8 +50,6 @@ You can display the Instagram feed on your WordPress site using a shortcode.
      [wp_imgsed_feed]
      ```
 
-   - You can also specify the number of images to display using the `count` attribute. For example, to display 6 images, use `[wp_imgsed_feed count="6"]`.
-
 2. **Update the Post/Page:**
 
    - Update or publish the post/page to display the Instagram feed.
