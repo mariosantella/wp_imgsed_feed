@@ -75,3 +75,9 @@ The plugin will automatically scrape and update your Instagram feed at intervals
 - If you encounter any issues or have questions, please [visit our support page](https://github.com/mariosantella/wp_imgsed_feed/issues) for assistance.
 
 Enjoy displaying your Instagram feed on your WordPress website with the WP Imgsed Feed plugin!
+
+## License
+
+This plugin is licensed under the MIT License.
+
+You can view the full text of the license in the [LICENSE](https://github.com/mariosantella/wp_imgsed_feed/LICENSE) file.
