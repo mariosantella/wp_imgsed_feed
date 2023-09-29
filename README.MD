@@ -1,4 +1,14 @@
-# WP Imgsed Feed Plugin
+=== Imgsed Feed Plugin ===
+Contributors: mariosantella
+Tags: instagram, feed, imgsed, post, embed
+Requires at least: 5.0
+Requires PHP: 7.0
+Tested up to: 6.3.1
+Stable tag: 1.0
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+# WP Imgsed Feed Plugin 
 
 The WP Imgsed Feed plugin allows you to display the latest Instagram posts from an Imgsed feed on your WordPress website without requiring access to the Instagram API. You can use this plugin to showcase Instagram images with alternative text.
 
