@@ -1,3 +1,5 @@
+[NOT LONGER MANTAINED]
+
 === Imgsed Feed Plugin ===
 Contributors: mariosantella
 Tags: instagram, feed, imgsed, post, embed
