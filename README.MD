@@ -1,4 +1,4 @@
-[NOT LONGER MANTAINED]
+[NOT TESTED - NEED SCRAPE.DO FREE TIER API]
 
 === Piokok Feed Plugin ===
 Contributors: mariosantella
